@@ -1,4 +1,4 @@
-# Python-backend-id-Password-Information-Modification-Portfolio
+# Portfolio created by Python log-in, membership sign-up, and information modification
 Portfolio created by Python log-in, membership sign-up, and information modification / Python을 활용해 로그인, 회원가입, 정보수정을 직접 제작한 포토폴리오
 
 # running programming code
